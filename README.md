@@ -1,4 +1,9 @@
-# VS2017/CUDA/cuDNN/Tensorflow-gpu Installation
+# Installation for Tensorflow based on RTX2070
+
+ - [x] VS2017
+ - [x] CUDA
+ - [x] cuDNN
+ - [x] Tensorflow-gpu
 
 # Project Title
 
